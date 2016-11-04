@@ -1,0 +1,246 @@
+{
+  "created_at": "Sat Oct 29 11:52:47 +0000 2016",
+  "id": 7.9233335746406e+17,
+  "id_str": "792333357464059905",
+  "full_text": "There is a really nice #workout app for #PHUL now in\n#stronglifts5x5 style\n https:\/\/t.co\/Sy1hbsBmvp #fitness #gym #fit #bodybuilding #muscle https:\/\/t.co\/TtT15rAXPD",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "workout",
+        "indices": [
+          23,
+          31
+        ]
+      },
+      {
+        "text": "PHUL",
+        "indices": [
+          40,
+          45
+        ]
+      },
+      {
+        "text": "stronglifts5x5",
+        "indices": [
+          53,
+          68
+        ]
+      },
+      {
+        "text": "fitness",
+        "indices": [
+          100,
+          108
+        ]
+      },
+      {
+        "text": "gym",
+        "indices": [
+          109,
+          113
+        ]
+      },
+      {
+        "text": "fit",
+        "indices": [
+          114,
+          118
+        ]
+      },
+      {
+        "text": "bodybuilding",
+        "indices": [
+          119,
+          132
+        ]
+      },
+      {
+        "text": "muscle",
+        "indices": [
+          133,
+          140
+        ]
+      }
+    ],
+    "symbols": [
+      
+    ],
+    "user_mentions": [
+      
+    ],
+    "urls": [
+      {
+        "url": "https:\/\/t.co\/Sy1hbsBmvp",
+        "expanded_url": "https:\/\/play.google.com\/store\/apps\/details?id=io.cmichel.phul",
+        "display_url": "play.google.com\/store\/apps\/det\u2026",
+        "indices": [
+          76,
+          99
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 7.9233330216642e+17,
+        "id_str": "792333302166421504",
+        "indices": [
+          141,
+          164
+        ],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/Cv7u8LtXgAAuXIf.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cv7u8LtXgAAuXIf.jpg",
+        "url": "https:\/\/t.co\/TtT15rAXPD",
+        "display_url": "pic.twitter.com\/TtT15rAXPD",
+        "expanded_url": "https:\/\/twitter.com\/cmichelio\/status\/792333357464059905\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 332,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 7.9233330216642e+17,
+        "id_str": "792333302166421504",
+        "indices": [
+          141,
+          164
+        ],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/Cv7u8LtXgAAuXIf.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cv7u8LtXgAAuXIf.jpg",
+        "url": "https:\/\/t.co\/TtT15rAXPD",
+        "display_url": "pic.twitter.com\/TtT15rAXPD",
+        "expanded_url": "https:\/\/twitter.com\/cmichelio\/status\/792333357464059905\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 332,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http:\/\/twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4842942297,
+    "id_str": "4842942297",
+    "name": "Christoph Michel",
+    "screen_name": "cmichelio",
+    "location": "",
+    "description": "I build stuff for the web with #d3js and #react. Currently playing around with #ReactNative for mobile.\nCompetetive Programmer, tweet me interesting problems :)",
+    "url": "https:\/\/t.co\/Gtms5esl0G",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/Gtms5esl0G",
+            "expanded_url": "http:\/\/cmichel.io",
+            "display_url": "cmichel.io",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 23,
+    "friends_count": 33,
+    "listed_count": 14,
+    "created_at": "Sun Jan 24 19:20:02 +0000 2016",
+    "favourites_count": 5,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 47,
+    "lang": "de",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/768521373778059264\/o0ldRhAc_normal.jpg",
+    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/768521373778059264\/o0ldRhAc_normal.jpg",
+    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4842942297\/1467560250",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

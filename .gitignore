@@ -36,10 +36,10 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-# Hide firebase configuration
-src/firebase-config.js
-
 # Heroku
 /node_modules
 .DS_Store
 /*.env
+
+# Hide project specific things
+src/configs
