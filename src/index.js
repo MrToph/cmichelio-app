@@ -3,8 +3,9 @@ import express from 'express'
 const port = process.env.PORT || 5000
 var app = express()
 
+let now = new Date()
 app.get('/', function (req, res) {
-  res.send('Hello World! 123456')
+  res.send(`Hello World! Started at ${now.toISOString()}`)
 })
 
 app.listen(port, function () {
