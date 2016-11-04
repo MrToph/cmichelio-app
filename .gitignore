@@ -38,3 +38,8 @@ jspm_packages
 
 # Hide firebase configuration
 src/firebase-config.js
+
+# Heroku
+/node_modules
+.DS_Store
+/*.env
