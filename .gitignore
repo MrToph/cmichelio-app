@@ -43,3 +43,4 @@ jspm_packages
 
 # Hide project specific things
 src/configs
+distribution
