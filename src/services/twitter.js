@@ -1,5 +1,17 @@
 import Twitter from 'twitter'
-import config from '../configs/twitter.js'
+var config
+try {
+  // load it like this in test/debug/local mode
+  config = require('../configs/twitter.js').default
+} catch (err) {
+  // load it like this when deployed (heroku)
+  config = {
+    consumer_key: process.env.consumer_key,
+    consumer_secret: process.env.consumer_secret,
+    access_token_key: process.env.access_token_key,
+    access_token_secret: process.env.access_token_secret
+  }
+}
 
 var client = new Twitter(config)
 

@@ -16,7 +16,7 @@ app.get('/', function (req, res) {
     }
     res.send(tweetJSON)
   },
-  error => res.send(`Error: ${error}`))
+  error => res.send(`Error: ${error[0] ? error[0].message : error}`))
 })
 
 app.listen(port, function () {
